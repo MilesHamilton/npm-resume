@@ -14,6 +14,6 @@ run
 
 then just type into the command line
 
-`print resume`
+`print-resume`
 
-and information should populate in your terminal
+and information should populate in your terminal!
