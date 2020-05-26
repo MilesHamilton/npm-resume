@@ -10,7 +10,7 @@ Try it out!
 
 run
 
-`npm i -g mileshamilton-resume
+`npm i -g mileshamilton-resume`
 
 then just type into the command line
 
