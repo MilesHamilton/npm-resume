@@ -8,7 +8,11 @@ Try it out!
 
 ## Usage
 
-just type the command
+run
+
+`npm i -g mileshamilton-resume
+
+then just type into the command line
 
 `print resume`
 

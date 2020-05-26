@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/MilesHamilton/npm-resume#readme",
   "bin": {
-    "print resume": "./index.js"
+    "print-resume": "./index.js"
   }
 }
