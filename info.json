@@ -1,0 +1,20 @@
+{
+  "name": "Miles Hamilton",
+  "website": "",
+  "linkedin": "https://www.linkedin.com/in/miles-hamilton/",
+  "github": "https://github.com/MilesHamilton",
+  "email": "mham7714@gmail.com",
+  "resume": "",
+  "proficientTechnologies": [
+    "Javascript",
+    "React",
+    "Node",
+    "Express",
+    "Mongodb",
+    "PostgreSQL",
+    "Python",
+    "Django"
+  ],
+  "otherSkills": ["GIS", "AutoCAD", "interpreting countour maps"],
+  "hobbies": ["Salsa dancing", "Language exchanges", "Longboarding"]
+}
